@@ -1,0 +1,210 @@
+@media(max-width: 990px) {
+    .mining {
+        min-width: 100%;
+        padding: 0 22px;
+    }
+    .social {
+        height:115px
+    }
+    .rectangle-content.d-flex {
+        width: 100%;
+    }
+    .publised-item{
+        margin: 10px 0px;
+    }
+    li#follow-link {
+        display: none;
+    }
+    .rating-menu {
+        width: 36%;
+    }
+    
+    .rating-box {
+        justify-content: end;
+        display: flex;
+    }
+    h6.number {
+        width: 30px;
+    }  
+    .total-rating.d-flex {
+        margin: 14px 0 5px 11px;
+        width: 100%;
+        flex-direction: row-reverse;
+        align-items: center;
+    }
+    .most-rating-content {
+        text-align: start;
+        width: 44%;
+        margin: 0;
+    }
+    .rating-point {
+        width: 56%;
+    }  
+    span.most-rating {
+        font-size: 44px;
+    }
+    .pros-content{
+        flex-direction: column;
+    }
+    ul.positive {
+        width: 100%;
+        border-bottom: 1px solid #b5c2cd;
+        padding: 0 8px 13px 42px;
+    }
+    ul.negitive {
+        width: 100%;
+        padding: 0 8px 0 42px;
+        margin-bottom: 0;
+    }
+    .all {
+        margin-left: 0px;
+        margin-top: 27px;
+    }
+    .slide-control {
+        display: none;
+    }
+    .owl-carousel.rating-img-sliding.owl-theme.owl-loaded.owl-drag {
+        display: block;
+    }
+    .rating-img-sliding .owl-dots .owl-dot.active span {
+        background: #ff3636;
+    }
+    img.arrow-left {
+        position: absolute;
+        left: 0;
+        bottom: 13px;
+    }
+    img.arrow-right {
+        position: absolute;
+        right: 0;
+        bottom: 13px;
+    }
+    .other:before {
+        content: "";
+        width: 100px;
+        left: -80%;
+    }
+    .other:after {
+        content: "";
+        width: 100px;
+        right: -79%;
+    }
+    ul.controler {
+        margin-bottom: 1px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    ul.controler li {
+        padding: 0 15px 0 0;
+    }
+  }
+@media(max-width:600px){
+    .mining {
+        padding: 0px 12px;
+    }
+    .text-item li a{
+        font-size: 14px;
+    }
+    .atx-heading h2 {
+        font-size: 25px;
+    }
+    p.atx-para{
+        font-size: 14px;
+    }
+    .social {
+        display: none;
+    }
+    .rectangle-img {
+        width: 50%;
+    }
+    .rectangle-content.d-flex {
+        flex-direction: row;
+        position: relative;
+    }
+    .rating-text span {
+        display: none;
+    }
+    .reting-content {
+      padding-left: 10px;
+      width: 50%;
+    }
+    .button {
+        padding: 2px 11px;
+        font-size: 16px;
+        width: auto;
+    }
+    .star-rating.d-flex {
+        align-items: start;
+        width: 100%;
+        margin: 4px 0;
+    }
+    .website-visit {
+        padding: 4px 0;
+        font-size: 14px;
+        margin-top: 13px;
+        position: absolute;
+        width: 44%;
+        bottom: 7px;
+    }
+    .social1 {
+        margin: 16px 0;
+    }
+    li.project-link {
+        width: 56%;
+    }
+    ul.publised-item {
+        padding: 6px 8px 6px 11px;
+    }
+    ul.publised-item li {
+        margin: 0;
+        font-size: 12px;
+    }
+    .publised-item li a{
+        font-size: 12px;
+    }
+    li.media-cont {
+        width: 67%;
+        justify-content: end;
+    }
+    .media-cont:before{
+        left: 47px;
+    }
+    .summary-table.d-flex {
+        flex-direction: column;
+        padding: 10px 10px;
+    }
+    .table-head {
+        border-right: none;
+        width: 100%;
+        padding: 0;
+    }
+    .table-content {
+        width: 100%;
+        padding-left: 0;
+    }
+    .total-rating.d-flex {
+        border: navajowhite;
+        margin: 12px 0 5px 0;
+    }
+
+    .cons.d-flex {
+        margin: 18px auto;
+        width: 96%;
+    }
+    .outline {
+        width: 95%;
+        margin: 12px auto;
+    }
+    ul.button-handler li {
+        padding: 5px 4px;
+        margin-right: 6px;
+        font-size: 11px;
+    }
+    ul.controler li {
+        padding: 0 0 4px 0;
+        width: 42%;
+    }
+    
+    
+} 
+

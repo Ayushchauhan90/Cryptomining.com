@@ -1,0 +1,15 @@
+<svg id="Group_16288" data-name="Group 16288" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff6597;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_790" data-name="Ellipse 790" class="cls-1" cx="12" cy="12" r="12"/>
+  <path id="Polygon_5" data-name="Polygon 5" class="cls-2" d="M6.893,2.652a1,1,0,0,1,1.885,0l.787,2.213a1,1,0,0,0,.917.665l2.349.06a1,1,0,0,1,.581,1.795L11.554,8.8A1,1,0,0,0,11.2,9.881l.667,2.236a1,1,0,0,1-1.523,1.111L8.4,11.9a1,1,0,0,0-1.13,0L5.324,13.228A1,1,0,0,1,3.8,12.117l.667-2.236A1,1,0,0,0,4.116,8.8L2.26,7.385A1,1,0,0,1,2.841,5.59L5.19,5.53a1,1,0,0,0,.917-.665Z" transform="translate(4.165 4.235)"/>
+</svg>
